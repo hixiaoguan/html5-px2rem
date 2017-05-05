@@ -6,7 +6,9 @@
 
 * 或直接下载：https://github.com/hixiaoguan/html5-px2rem/archive/master.zip
 
-* 直接将该文件放置在页面底部即可
+* 理解帮助：https://hixiaoguan.github.io/html5-px2rem/px-em-rem-percent-points.png
+
+* 直接将该文件直接放到页面底部即可
 
 * 开发过程中 可以配合 gulp 的 gulp-px2rem-plugin 实现 less 文件里可以直接按设计稿的px写样式，然后通过该插件自动计算并生成对应的rem。懒人的福音！我也是懒人一个^^
 * gulp 写法：
